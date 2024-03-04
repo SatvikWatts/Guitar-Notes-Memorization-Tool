@@ -1,0 +1,5 @@
+opencv-python==4.6.0
+ipywidgets==8.1.1
+svgwrite==1.4.3
+wand
+IPython==8.4.0
